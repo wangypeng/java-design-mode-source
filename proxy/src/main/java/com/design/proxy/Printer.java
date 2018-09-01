@@ -1,0 +1,31 @@
+package main.java.com.design.proxy;
+
+/**
+ * proxy -- 实体类
+ *
+ * @author :yunpeng.wang
+ */
+public class Printer implements Printable {
+
+    private String name;
+
+    public Printer(String name){
+        this.name = name;
+    }
+
+    @Override
+    public void setPrinterName(String name) {
+        this.name = name;
+    }
+
+    @Override
+    public String getPrinterName() {
+        return name;
+    }
+
+    @Override
+    public void print(String string) {
+        System.out.println("===" + name + "===");
+        System.out.println(string);
+    }
+}
