@@ -10,6 +10,9 @@ package com.design.adapter.clazz;
  */
 public interface ClassTargetInterface {
 
+    /**
+     * 调用方法
+     */
     void invokeMethod();
 
 }

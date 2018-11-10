@@ -1,4 +1,4 @@
-package main.java.com.design.composite;
+package com.design.composite;
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -10,8 +10,13 @@ import java.util.List;
  * @author :yunpeng.wang
  */
 public class Directory extends Entry {
-
+    /**
+     * name
+     */
     private String name;
+    /**
+     * directory
+     */
     private List<Entry> directory = new ArrayList<>();
 
     public Directory(String name) {

@@ -10,5 +10,8 @@ package com.design.adapter.objects;
  */
 public interface ObjectTargetInterface {
 
+    /**
+     * invoke method
+     */
     void invokeMethod();
 }

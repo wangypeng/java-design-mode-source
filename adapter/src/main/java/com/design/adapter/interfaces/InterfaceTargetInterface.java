@@ -10,13 +10,28 @@ package com.design.adapter.interfaces;
  */
 public interface InterfaceTargetInterface {
 
+    /**
+     * method A
+     */
     void methodA();
 
+    /**
+     * method B
+     */
     void methodB();
 
+    /**
+     * method C
+     */
     void methodC();
 
+    /**
+     * method D
+     */
     void methodD();
 
+    /**
+     * method D
+     */
     void methodE();
 }

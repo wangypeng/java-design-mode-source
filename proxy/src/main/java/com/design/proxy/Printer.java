@@ -1,4 +1,4 @@
-package main.java.com.design.proxy;
+package com.design.proxy;
 
 /**
  * proxy -- 实体类
@@ -6,10 +6,12 @@ package main.java.com.design.proxy;
  * @author :yunpeng.wang
  */
 public class Printer implements Printable {
-
+    /**
+     * name
+     */
     private String name;
 
-    public Printer(String name){
+    public Printer(String name) {
         this.name = name;
     }
 

@@ -1,4 +1,4 @@
-package main.java.com.design.composite;
+package com.design.composite;
 
 /**
  * abstract 定义结构体方法
@@ -21,6 +21,7 @@ public abstract class Entry {
 
     public abstract void printList(String prefix);
 
+    @Override
     public String toString() {
         return getName() + "(" + getSize() + ")";
     }

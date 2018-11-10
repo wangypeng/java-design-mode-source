@@ -1,4 +1,4 @@
-package main.java.com.design.composite;
+package com.design.composite;
 
 /**
  * file class

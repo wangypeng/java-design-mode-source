@@ -10,7 +10,7 @@ package com.design.adapter.objects;
  */
 public class ObjectAdaptee {
 
-    public void apateeMethod(){
+    public void apateeMethod() {
         System.out.println("This is object's adaptee");
     }
 

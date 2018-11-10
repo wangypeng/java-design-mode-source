@@ -1,4 +1,4 @@
-package main.java.com.design.proxy;
+package com.design.proxy;
 
 /**
  * proxy -- 代理类
