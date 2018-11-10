@@ -7,12 +7,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="adapter" />
+        <module name="chain-of-responsibility" />
+        <module name="chainofresponsibility" />
         <module name="composite" />
         <module name="proxy" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="adapter" target="1.8" />
+      <module name="chain-of-responsibility" target="1.8" />
+      <module name="chainofresponsibility" target="1.8" />
       <module name="composite" target="1.8" />
       <module name="java-design-mode-source" target="1.8" />
       <module name="proxy" target="1.8" />

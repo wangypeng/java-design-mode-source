@@ -12,6 +12,7 @@
 		<module>adapter</module>
 		<module>composite</module>
 		<module>proxy</module>
+		<module>chain-of-responsibility</module>
 	</modules>
 	
 	<build>
