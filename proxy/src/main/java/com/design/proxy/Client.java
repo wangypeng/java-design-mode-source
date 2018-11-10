@@ -3,7 +3,7 @@ package com.design.proxy;
 /**
  * proxy -- client
  *
- * @author :yunpeng.wang
+ * @author :peng
  */
 public class Client {
 

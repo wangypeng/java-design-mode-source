@@ -3,7 +3,7 @@ package com.design.chain;
 /**
  * entry handler
  *
- * @author yunpeng.wang
+ * @author peng
  * @since 10 十一月 2018
  */
 public class HandlerEntry {

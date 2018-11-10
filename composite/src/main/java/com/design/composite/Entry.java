@@ -3,7 +3,7 @@ package com.design.composite;
 /**
  * abstract 定义结构体方法
  *
- * @author :yunpeng.wang
+ * @author :peng
  */
 public abstract class Entry {
 

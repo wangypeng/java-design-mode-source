@@ -3,7 +3,7 @@ package com.design.chain;
 /**
  * 大小处理器
  *
- * @author yunpeng.wang
+ * @author peng
  * @since 10 十一月 2018
  */
 public class SizeHandler extends Handler {

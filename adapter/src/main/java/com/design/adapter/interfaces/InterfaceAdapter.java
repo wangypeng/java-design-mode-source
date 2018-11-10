@@ -3,7 +3,7 @@ package com.design.adapter.interfaces;
 /**
  * com.design.adapter.interfaces
  *
- * @author :yunpeng.wang
+ * @author :peng
  * @version :v1.0
  * @describe :des
  * @date :2018/8/12,上午11:32

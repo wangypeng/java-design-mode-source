@@ -3,7 +3,7 @@ package com.design.proxy;
 /**
  * proxy -- 代理类和目标定义方法接口
  *
- * @author :yunpeng.wang
+ * @author :peng
  */
 public interface Printable {
 

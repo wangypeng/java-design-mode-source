@@ -3,7 +3,7 @@ package com.design.composite;
 /**
  * 自定义异常
  *
- * @author :yunpeng.wang
+ * @author :peng
  * @version :v1.0
  */
 public class FileTreatmentException extends RuntimeException {

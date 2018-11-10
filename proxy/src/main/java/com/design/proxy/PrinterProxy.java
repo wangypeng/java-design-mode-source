@@ -3,7 +3,7 @@ package com.design.proxy;
 /**
  * proxy -- 代理类
  *
- * @author :yunpeng.wang
+ * @author :peng
  */
 public class PrinterProxy implements Printable {
 

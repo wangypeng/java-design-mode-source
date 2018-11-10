@@ -3,7 +3,7 @@ package com.design.chain;
 /**
  * client
  *
- * @author yunpeng.wang
+ * @author peng
  * @since 10 十一月 2018
  */
 public class Client {

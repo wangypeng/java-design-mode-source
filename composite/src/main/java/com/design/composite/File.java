@@ -3,7 +3,7 @@ package com.design.composite;
 /**
  * file class
  *
- * @author :yunpeng.wang
+ * @author :peng
  */
 public class File extends Entry {
     private String name;

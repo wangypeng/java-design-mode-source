@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * directory class
  *
- * @author :yunpeng.wang
+ * @author :peng
  */
 public class Directory extends Entry {
     /**

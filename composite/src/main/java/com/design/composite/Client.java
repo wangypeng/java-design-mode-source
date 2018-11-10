@@ -3,7 +3,7 @@ package com.design.composite;
 /**
  * Client
  *
- * @author :yunpeng.wang
+ * @author :peng
  */
 public class Client {
 

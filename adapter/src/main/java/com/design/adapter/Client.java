@@ -11,7 +11,7 @@ import com.design.adapter.objects.ObjectTargetInterface;
 /**
  * adapter--client
  *
- * @author :yunpeng.wang
+ * @author :peng
  * @version :v1.0
  * @describe :des
  * @date :2018/8/12,上午10:54
