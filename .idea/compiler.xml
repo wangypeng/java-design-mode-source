@@ -11,6 +11,7 @@
         <module name="chainofresponsibility" />
         <module name="composite" />
         <module name="proxy" />
+        <module name="single" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -20,6 +21,7 @@
       <module name="composite" target="1.8" />
       <module name="java-design-mode-source" target="1.8" />
       <module name="proxy" target="1.8" />
+      <module name="single" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
